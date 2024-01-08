@@ -1,0 +1,19 @@
+-Import Python libraries
+
+-	Import dataset
+
+-	Exploratory data analysis
+
+-	Split data into training and test set
+
+-	Feature engineering
+
+-	Feature scaling
+
+-	Logistic regression model with all features
+
+-	Logistic Regression with PCA
+
+-	Select right number of dimensions
+
+-	Plot explained variance ratio with number of dimensions
